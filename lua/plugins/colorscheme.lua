@@ -5,7 +5,7 @@ return {
     name = "catppuccin",
     opts = {
       --code
-      flavour = "macchiato",
+      flavour = "mocha",
     },
   },
 
